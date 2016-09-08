@@ -27,8 +27,21 @@
             </div>  
         </nav>
         <!-- Navbar is end here -->
-        
+         <!-- registratton is success body -->
+        <div class="container" >
+            <div class="jumbotron">
+                <h1><?php
+                        echo @$_GET['success'];
+                      ?>               
+                 </h1>
+                  <p class="lead">you Completed the Registration and we'll inform you after couple of days and prepration to test .Text will be annoncement .</P>
+                  <p>
+                      <a href="#" class=" btn btn-lg btn-primary">More Details<a/> 
+                 </p>
+            </div>
+        </div>
         
         
 </body>
-</html>
+</html>        
+      

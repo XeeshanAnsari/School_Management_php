@@ -15,7 +15,7 @@
      $query = "insert into registration (s_name,s_father_name,s_class,s_phone,s_email,s_address) value('$name','$fname','$class','$phone','$email','$address')";  
      
      if(mysql_query($query)){
-         echo"<script> window.open('../regSuccess.php?inserted=Registration SuccessFull ','_self')</script>";
+         echo"<script> window.open('../Registration.php?success=Registration SuccessFull ','_self')</script>";
      }   
 
    }
