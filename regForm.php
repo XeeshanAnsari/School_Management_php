@@ -16,7 +16,7 @@
                 <div class="form-box" >
                     <h1>Registration</h1>
                     <p>School registration is available 9 september</p><br>
-                    <form action="">
+                    <form action="./database/reg_db.php" method="post">
                        <label for="s_name">Name : <br/><input type="text" name="s_name" id="s_name" class="input-field"></label><br>
                        <label for="s_fname">Father Name : <br/><input type="text" name="s_fname" id="s_fname" class="input-field"></label><br>
                        <label for="s_class">Class : <br/><input type="text" name="s_class" id="s_class" class="input-field"></label><br>
@@ -24,7 +24,7 @@
                        <label for="s_email">Email : <br/><input type="text" name="s_email" id="s_email" class="input-field"></label><br>
                        <label for="s_address">Address : <br/><textarea name="s_address" id="s_address"  cols="30" rows="5"></textarea>
                        </label><br>
-                       <button name="submit" class="btn btn-primary">Submit</button> 
+                       <input type="submit" name="submit" value="inaert">
                     </form>
                 </div>
         </div>
@@ -35,7 +35,3 @@
     
 </body>
 </html>
-<?php
-   include("./database/db_connect.php");
-
-?>
