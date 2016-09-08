@@ -15,8 +15,7 @@
         <div class="mainBody">
                 <div class="form-box" >
                     <h1>Registration</h1>
-                    <p>Registration is demo school is available 9 september<br>
-                     Registration is demo school is available 9 september</p>
+                    <p>School registration is available 9 september</p><br>
                     <form action="">
                        <label for="s_name">Name : <br/><input type="text" name="s_name" id="s_name" class="input-field"></label><br>
                        <label for="s_fname">Father Name : <br/><input type="text" name="s_fname" id="s_fname" class="input-field"></label><br>
