@@ -24,7 +24,7 @@
                        <label for="s_email">Email : <br/><input type="text" name="s_email" id="s_email" class="input-field"></label><br>
                        <label for="s_address">Address : <br/><textarea name="s_address" id="s_address"  cols="30" rows="5"></textarea>
                        </label><br>
-                       <input type="submit" name="submit" value="inaert">
+                       <input type="submit" name="submit" value="Submit" class="btn btn-primary">
                     </form>
                 </div>
         </div>
