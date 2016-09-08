@@ -35,3 +35,7 @@
     
 </body>
 </html>
+<?php
+   include("./database/db_connect.php");
+
+?>
