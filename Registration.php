@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Home</title>
+    <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/bootstrap.min.css">
     <script src="./js/jquery.js"></script>
     <script src="./js/bootstrap.min.js"></script>
@@ -16,7 +17,7 @@
                 </div>
                 <div class="navbar-header navbar-right">
                   <ul class="nav navbar-nav ">
-                      <li><a href="#">Home</a></li>
+                      <li><a href="index.html">Home</a></li>
                       <li><a href="">Blog</a></li>
                       <li><a href="regForm.php">Registration</a></li>
                       <li><a href="#">About</a></li>
