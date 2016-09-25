@@ -7,9 +7,9 @@
     <link rel="stylesheet" href="./css/bootstrap.min.css">
     <script src="./js/jquery.js"></script>
     <script src="./js/bootstrap.min.js"></script>
-    
+     <script src="./js/new.js"></script>   
 </head>
-<body>
+<body    onload="slideA()">
     
         <!--  NavBar is start here-->
      <div class="container-fuild"> 
@@ -32,6 +32,13 @@
         </nav>
      </div>    
         <!-- Navbar is end here -->
+         <!-- Image slider is start here -->
+      <div>
+         <img src="image/img1.jpg" alt="" id="img">
+         <div class="left-btn" ><img src="image/left.png"  onclick="slider(-1);" alt="" class="left-arrow"></div>
+         <div class="right-btn" ><img src="image/right.png" onclick="slider(1);" alt="" class="right-arrow"></div>    
+      </div>  
+    <!-- Image slider is end here -->
         
 </body>
 </html>
