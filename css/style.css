@@ -93,6 +93,16 @@ textarea{
     margin: 10px 0px;
 }
 /*  signUp page working end here   */
+#mainContainer{
+    background-color: lightslategray;
+    background-image: url(books.jpg);
+   margin-top: -20px;
+    
+     
+}
+#center{
+    padding: 120px 150px;
+}
 #signInBox , #signUpBox{
     width: 90%;
     background-color: #ffffff;
