@@ -64,7 +64,7 @@ body{
 /* welcome tag end */
 
 
-/* section  tag */
+/* section  tag start*/
 .sections{
     padding: 40px;
 }
@@ -89,6 +89,36 @@ body{
     height: 200px;
     
 }
+/* section  tag end*/
+
+/* contac section  start*/
+#contact{
+    padding: 20px 5%;
+    background-color: #00adec;
+    color: white;
+}
+
+
+.contact-input-field{
+    width:  150%;
+    height: 40px;
+    color: black;
+    padding: 5px 6%;
+    border-radius: 5px 5px ;
+}
+.contactNumbers{
+    padding: 30px;
+}
+#massage{
+    color: black;
+    padding: 5px 6%;
+    border-radius: 2px 5px ;
+}
+#massageBox{
+    padding: 30px;
+}
+   
+/* contact section end*/
 
 /*  rigForm page working strat here   */
 .title-cover{
