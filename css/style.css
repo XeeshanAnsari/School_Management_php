@@ -2,9 +2,16 @@ body{
     padding: 0px;
     margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
+    
 }
 
 /* image slider end here */
+#imgSlider{
+    height: 380px;
+    width: 100%;
+    margin: 0px;
+   
+}
     #img{
             width: 100%;
             height: 400px;
@@ -32,7 +39,27 @@ body{
             
         }
         
-/* image slider end here */        
+/* image slider end here */
+/* welcome tag */  
+#welcome {
+    width: 100%;
+    height: 400px;
+    padding: 100px;
+    background-color: gray;
+}      
+.welcomeTag {
+    font-size: 200%;
+    padding: 20px;
+    padding-top: 30px;
+    text-align: justify; 
+    color: white;      
+}
+.welcomeTag h1{
+    font-size: 150%;
+}
+.welcomeTag b{
+    color: #d8ba76 ;
+}
 /*  rigForm page working strat here   */
 .title-cover{
     width: 100%;
@@ -94,11 +121,10 @@ textarea{
 }
 /*  signUp page working end here   */
 #mainContainer{
-    background-color: lightslategray;
-    background-image: url(books.jpg);
-   margin-top: -20px;
-    
-     
+            height: 500px;
+            width: 100%;
+            background-color: gold;
+            background-image: url(3.jpg);    
 }
 #center{
     padding: 120px 150px;
