@@ -97,6 +97,9 @@ body{
     background-color: #00adec;
     color: white;
 }
+.contactNumbers a:link{
+    color: navajowhite;
+}
 
 
 .contact-input-field{
