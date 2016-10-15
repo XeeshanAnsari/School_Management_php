@@ -70,12 +70,15 @@ body{
 }
 .sections div{
       padding: 0px;
-      width: 30%;
+      width: 31%;
 }
 .sectionDivs{
     background-color: white;
     margin: 1%;
     border: 1px solid wheat; 
+}
+.sectionDivs:hover{
+   box-shadow: 4px 4px 20px #444444;
 }
 .sectionDivs div{
     width: 100%;
