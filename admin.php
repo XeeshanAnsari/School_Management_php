@@ -20,7 +20,9 @@
                 </div>
                 <div class="navbar-header navbar-right">
                   <ul class="nav navbar-nav  ">
-                      <li><a href="regShowRecord.php"> ShowRegistrationForm</a></li>
+                      <li><a href="admin.php">Home</a></li>
+                      <li><a href="regShowRecord.php">Regitration Details</a></li>
+                      <li><a href="msgRecord.php">Massage Details</a></li>
                   </ul>
                 </div>
                 

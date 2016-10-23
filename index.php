@@ -11,7 +11,9 @@
 </head>
 <body    onload="slideA();">
     
-        <!--  NavBar is start here-->
+    
+    
+      <!--  NavBar is start here-->
      <div class="container-fuild" id="header"> 
         <nav class="navbar navbar-inverse navnbar-fixed ">
             <div class="container-fluid">
@@ -20,7 +22,7 @@
                 </div>
                 <div class="navbar-header navbar-right">
                   <ul class="nav navbar-nav ">
-                      <li><a href="index.html">Home</a></li>
+                      <li><a href="index.php">Home</a></li>
                       <li><a href="#sectionPart">Sections</a></li>
                       <li><a href="regForm.php">Registration</a></li>
                       <li><a href="#">About</a></li>
@@ -32,6 +34,7 @@
         </nav>
      </div>    
         <!-- Navbar is end here -->
+          
         
          <!-- Image slider is start here -->
       <div id="imgSlider">
@@ -41,6 +44,8 @@
       </div>  
     <!-- Image slider is end here -->
     
+    
+        
     
     <!-- welcome is start here -->
     
