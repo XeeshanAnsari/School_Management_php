@@ -91,6 +91,13 @@ body{
     
 }
 /* section  tag end*/
+/* about section  start*/
+#about{
+    background-color: darkslategray;
+    padding: 5%;
+}
+/* about section  start*/
+
 
 /* contac section  start*/
 #contact{

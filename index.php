@@ -88,6 +88,7 @@
     </div>
     <!-- Section tag is end here -->
     
+    
     <!-- contact section is start here -->
     
     <div id="contact">
@@ -133,7 +134,7 @@
             
             <div class="col-md-6">
                 <div id="massageBox">
-                    <form action="">
+                    <form action="./database/massage.php" method="post">
                         <input type="text" name="name" id="name" placeholder="Enter Name" class="contact-input-field"><br>
                         <input type="text" name="email" id="email" placeholder="Enter Email" class="contact-input-field"><br>
                        <input type="text" name="subject" id="class" placeholder="Enter Subject" class="contact-input-field"><br>
