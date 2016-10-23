@@ -41,6 +41,7 @@ body{
         }
         
 /* image slider end here */
+
 /* welcome tag */  
 #welcome {
     width: 100%;
@@ -133,6 +134,34 @@ body{
 }
    
 /* contact section end*/
+
+
+/* footer section start*/
+#footer{
+    background-color: #000000;
+    padding: 50px;
+}
+
+.footerColum h3{
+    margin-left: 15%;
+}
+.footerColum ul{
+    list-style: none;
+    margin-left: 0px;
+}
+.connectIcon img{
+    width: 10%;
+    height: 20px;
+    margin: 2px;
+    color: black;
+}
+#copyRight p{
+   text-align: center;
+}
+
+
+/* footer section end*/
+
 
 /*  rigForm page working strat here   */
 .title-cover{
