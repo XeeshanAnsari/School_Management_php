@@ -233,8 +233,8 @@ textarea{
 #mainContainer{
             height: 500px;
             width: 100%;
-            background-color: gold;
-            background-image: url(3.jpg);    
+            
+            background-image: url(./image/techer1.jpg);    
 }
 #center{
     padding: 120px 150px;

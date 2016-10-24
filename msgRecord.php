@@ -34,7 +34,7 @@
         <!-- Show Registration Record -->
         <div class="container">
             <table class="table table-default table-hover">
-                <tr>
+                <tr class="">
                     <th>Serial No</th>
                     <th>Massager Name</th>
                     <th>Email</th>
